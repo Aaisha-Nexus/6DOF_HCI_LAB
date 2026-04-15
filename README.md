@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a simple implementation of a 3D cube using Three.js where the cube can be controlled using keyboard input. The main goal of this lab is to understand 6 Degrees of Freedom (6DOF) by applying translation and rotation on a 3D object.
+This project is a simple implementation of a 3D cube which can be controlled using keyboard input. The main goal of this lab is to understand 6 Degrees of Freedom (6DOF) by applying translation and rotation on a 3D object.
 
 The cube moves in real-time and updates continuously using an animation loop.
 
